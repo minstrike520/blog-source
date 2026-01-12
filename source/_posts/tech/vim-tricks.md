@@ -1,3 +1,11 @@
+---
+title: '[Notes] Vim Tricks'
+date: '2026-01-08 08:44'
+updated: '2026-01-08 08:44'
+categories:
+  - tech
+tags:
+---
 - Set Indent Width: `:set shiftwidth=4`.
 - Use Spaces instead of Tabs: `:set expandtab`.
 

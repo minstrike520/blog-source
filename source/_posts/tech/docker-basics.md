@@ -1,8 +1,10 @@
 ---
 title: Docker Basics
-date: 2025-12-30 16:04:00
 tags:
   - IT-Basics
+categories:
+  - tech
+date: 2025-12-30 16:04:00
 ---
 ## 更新
 官網有對個別系統的安裝方式做出解釋。
