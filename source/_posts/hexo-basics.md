@@ -3,8 +3,8 @@ title: Hexo Basics
 tags:
   - IT-Basics
 categories:
-  - tech
-date: 2025-12-31
+  - IT筆記
+date: 2025-12-31 00:00:00
 ---
 雖然是自動生成的……但也算是參考，姑且就留下吧？
 

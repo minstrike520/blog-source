@@ -5,7 +5,7 @@ updated: '2026-01-08 08:51'
 tags:
   - Arch_Linux
 categories:
-  - tech
+  - IT筆記
 ---
 可以參考 [Arch Wiki: PKGBUILD](https://wiki.archlinuxcn.org/zh-tw/PKGBUILD)。
 

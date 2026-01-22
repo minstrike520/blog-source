@@ -3,7 +3,7 @@ title: Docker Basics
 tags:
   - IT-Basics
 categories:
-  - tech
+  - IT筆記
 date: 2025-12-30 16:04:00
 ---
 ## 更新

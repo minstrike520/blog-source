@@ -3,7 +3,7 @@ title: '[Notes] Vim Tricks'
 date: '2026-01-08 08:44'
 updated: '2026-01-08 08:44'
 categories:
-  - tech
+  - IT筆記
 tags:
 ---
 - Set Indent Width: `:set shiftwidth=4`.

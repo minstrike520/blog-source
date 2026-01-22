@@ -1,7 +1,7 @@
 ---
 title: '[Notes] Systemd Commands'
 categories:
-  - tech
+  - IT筆記
 date: 2026-01-08 00:00:00
 tags:
 ---

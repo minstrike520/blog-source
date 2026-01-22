@@ -6,7 +6,6 @@ title: Welcome!
 
 **導覽**
 
-- [貼文時間軸](/timeline/)
 - [課程筆記](/courses/)
 
 **待辦**

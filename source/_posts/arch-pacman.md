@@ -1,10 +1,11 @@
 ---
-title: "[Notes] Pacman Commands"
-date: 2026-01-08 08:57
-updated: 2026-01-08 08:57
+title: '[Notes] Pacman Commands'
+date: '2026-01-08 08:57'
+updated: '2026-01-08 08:57'
 tags:
   - Arch_Linux
-categories: tech
+categories:
+  - IT筆記
 ---
 - **原生/外來套件**：`-n` (Native), `-m` (Foreign)
 - **指定/依賴**：`-e` (Explicit), `-d` (Dependency)

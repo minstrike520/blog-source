@@ -1,11 +1,11 @@
 ---
 title: Headscale Basics
-date: 2025-12-31 10:24
-updated: 2025-12-31 10:24
+date: '2025-12-31 10:24'
+updated: '2025-12-31 10:24'
 tags:
   - IT-Basics
 categories:
-  - tech
+  - IT筆記
 ---
 https://headscale.net/stable/setup/install/container
 

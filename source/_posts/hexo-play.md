@@ -1,9 +1,11 @@
 ---
 title: Hexo 與部落格
-date: 2026-01-08 10:18
+date: '2026-01-08 10:18'
 tags:
   - 筆記
   - 部落格
+categories:
+  - 雜談
 ---
 Hexo 似乎很喜歡用底線前綴來標注它專用的檔案結構。比如，`_config.yml` 是用來配置 Hexo 的設定檔；`source/_posts/` 用來放置文章。
 
