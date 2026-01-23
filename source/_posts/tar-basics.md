@@ -1,9 +1,9 @@
 ---
-date: '2026-01-08 09:25'
-updated: '2026-01-08 09:25'
+date: 2026-01-08 09:25
+updated: 2026-01-08 09:25
 categories:
   - IT筆記
-title: '[Notes] Tar Basics'
+title: "[Notes] Tar Basics"
 tags:
 ---
 一直覺得 tar 的指令很難記。

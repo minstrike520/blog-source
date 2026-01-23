@@ -2,7 +2,9 @@
 title: fcitx5 與 Chrome 的相容性問題
 date: 2026-01-12
 tags:
-  - IT-Solutions
+  - Linux輸入法
+categories:
+  - IT 除錯紀錄
 ---
 # Chrome, Obsidian
 

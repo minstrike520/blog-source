@@ -7,8 +7,8 @@ categories:
 date: 2025-12-30 16:04:00
 ---
 ## 更新
-官網有對個別系統的安裝方式做出解釋。
-比如 Debian 要看: https://docs.docker.com/engine/install/debian/
+
+官網有對個別系統的安裝方式做出解釋，比如 [Debian](https://docs.docker.com/engine/install/debian/)。
 
 ## 啟用
 
@@ -64,3 +64,8 @@ docker run --name <CONTAINER_NAME> <IMAGE_NAME>
 docker exec -it <CONTAINER_NAME> <COMMAND ...>
 ```
 
+執行一個新的 container 並指派一個指令，該 container 會隨著指令結束而自動移除。
+
+```bash
+docker run --rm -it --entrypoint /bin/sh <IMAGE_NAME>
+```

@@ -4,6 +4,7 @@ date: 2026-01-08 08:44
 categories:
   - IT筆記
 tags:
+  - Vim
 ---
 - Set Indent Width: `:set shiftwidth=4`.
 - Use Spaces instead of Tabs: `:set expandtab`.

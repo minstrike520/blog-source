@@ -1,9 +1,10 @@
 ---
 title: Headscale Basics
-date: '2025-12-31 10:24'
-updated: '2025-12-31 10:24'
+date: 2025-12-31 10:24
+updated: 2025-12-31 10:24
 tags:
   - IT-Basics
+  - Tailscale
 categories:
   - IT筆記
 ---

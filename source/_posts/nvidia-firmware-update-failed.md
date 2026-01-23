@@ -1,7 +1,11 @@
 ---
-title:
+title: NVidia 韌體更新失敗
 date: 2025-06-22
 tags:
+  - Arch_Linux
+  - NVidia顯示卡
+categories:
+  - IT 除錯紀錄
 ---
 ```
 (29/29) checking for file conflicts                                                                               [####################################################################] 100%

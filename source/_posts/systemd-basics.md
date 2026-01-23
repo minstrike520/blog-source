@@ -1,9 +1,10 @@
 ---
-title: '[Notes] Systemd Commands'
+title: "[Notes] Systemd Commands"
 categories:
   - IT筆記
 date: 2026-01-08 00:00:00
 tags:
+  - Systemd
 ---
 名詞釋義：在本文中我們稱「登錄」為將服務設定為開機自動啟動。
 

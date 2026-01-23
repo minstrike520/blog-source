@@ -2,6 +2,7 @@
 title: Cloudflare Basics
 tags:
   - IT-Basics
+  - Cloudflare
 categories:
   - IT筆記
 date: 2025-12-30 23:41:00
