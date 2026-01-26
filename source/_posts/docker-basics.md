@@ -18,6 +18,28 @@ date: 2025-12-30 16:04:00
 systemctl start docker
 ```
 
+## 權限設定
+
+如果沒有特別設定，Docker 的執行是需要 root 權限的。但是每次執行指令，就算只是 `docker ps`　這樣微不足道的指令也要 root 實在是有點麻煩。為此 Docker 有一個特別機制，它會在系統裡面使用「Docker」群組，只要是加入了這個群組的使用者，使用 `docker` 指令都不用 `sudo`。
+
+首先，檢查系統是否已經有名為 `docker` 的群組。如果沒有就手動新增一個：
+
+```shell
+sudo groupadd docker
+```
+
+將使用者加入 `docker` 群組：
+
+```shell
+sudo usermod -aG docker $USER
+```
+
+系統要重新啟動，設定才會永久生效。如果想要暫時生效，可以臨時以 `docker` 群組身份登入（只在當前的 shell 環境有效）：
+
+```shell
+newgrp docker
+```
+
 ## 映像檔管理
 
 從官方「<ruby>映像檔倉庫<rt>registry</rt></ruby>」下載現成的 image。
