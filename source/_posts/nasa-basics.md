@@ -2,6 +2,7 @@
 title: 網管筆記
 date: 2026-01-06
 tags:
+  - 網路管理
 categories:
   - IT筆記
 ---

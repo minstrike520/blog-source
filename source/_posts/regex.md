@@ -2,6 +2,8 @@
 title: 正則表達式—速查
 date: 2026-01-26
 tags:
+  - 正規表達式
+  - 形式語言
 categories:
   - IT筆記
 ---

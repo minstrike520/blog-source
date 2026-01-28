@@ -3,6 +3,7 @@ title: Vifm
 date: 2026-01-27
 tags:
   - TUI-apps
+  - Vim
 categories:
   - IT筆記
 ---
