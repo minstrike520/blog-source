@@ -5,6 +5,7 @@ categories:
   - IT筆記
 tags:
   - Vim
+  - TUI-apps
 ---
 - Set Indent Width: `:set shiftwidth=4`.
 - Use Spaces instead of Tabs: `:set expandtab`.

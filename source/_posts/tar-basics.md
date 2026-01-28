@@ -5,6 +5,7 @@ categories:
   - IT筆記
 title: "[Notes] Tar Basics"
 tags:
+  - CLI-apps
 ---
 一直覺得 tar 的指令很難記。
 

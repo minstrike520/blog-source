@@ -3,6 +3,7 @@ title: 正則表達式—速查
 date: 2026-01-26
 tags:
 categories:
+  - IT筆記
 ---
 ## 表示式參照表
 

@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra - Chapter 1: Matrices and Linear Transformations"
 ---
-
+![](thumb_1.jpg)
 註：本文中行＝row，列＝column。
 
 ## 1.1 Matrices

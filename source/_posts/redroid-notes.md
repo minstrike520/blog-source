@@ -5,6 +5,7 @@ tags:
   - ADB
   - Android
 categories:
+  - IT筆記
 ---
 關於 ADB 跟 scrcpy 的使用方式，可見另一篇：[ADB 的妙用：手機投影與控制](/posts/adb-and-scrcpy/)
 關於 Docker 的使用方式可見[Docker Basics](/posts/docker-basics)
